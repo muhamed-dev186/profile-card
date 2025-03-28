@@ -32,8 +32,8 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: (https://github.com/muhamed-dev186/profile-card/)
+- Live Site URL: (https://profile-card-five-sepia.vercel.app/)
 
 ## My process
 
@@ -46,18 +46,13 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - Mobile-first workflow
 
 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
-### What I learned
-
-Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
 
 
 
 ## Author
 
-- Website - [Add your name here](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - (https://muhamed.vercel.app/)
+- Frontend Mentor - (https://www.frontendmentor.io/profile/muhamed-dev186)
 
 
 
